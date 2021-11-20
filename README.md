@@ -1,2 +1,1 @@
-# Responsive-Restauran-Website
- 
+# Адаптивный сайт ресторана
